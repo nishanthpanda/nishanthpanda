@@ -5,7 +5,7 @@
 <h3 align="center">AI/ML Engineer &nbsp;×&nbsp; Biomedical Engineering Researcher</h3>
 
 <p align="center">
-Building deep learning &amp; generative AI pipelines for cardiovascular medical imaging
+Building Deep Learning &amp; Generative AI pipelines for Medical imaging
 </p>
 
 <p align="center">
